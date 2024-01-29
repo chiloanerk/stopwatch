@@ -2,6 +2,8 @@
 
 This React Stopwatch Component is a simple yet functional stopwatch implemented in React. It provides a user interface with three primary functionalities:
 
+**[Live Site Link](https://chiloanerk.github.io/stopwatch/)**
+
 1. **Start:** Click the "Start" button to initiate the stopwatch, and the elapsed time begins counting.
 
 2. **Stop:** Click the "Stop" button to pause the stopwatch. The displayed time freezes at the paused moment.
